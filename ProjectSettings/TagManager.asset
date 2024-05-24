@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Foreground
+  - Ground
+  - Enemy
+  - ItemGun
+  - Bullet
+  - PassiveItem
+  - Hole
+  - Boss
+  - PlayerChild
+  - EnemyBullet
+  - Ignore
+  - Hydra
+  - PowerUpSpecial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Enemy
+  - Obstacle
+  - Walls
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 3304188467
+    locked: 0
+  - name: Enemy
+    uniqueID: 3209119845
+    locked: 0
